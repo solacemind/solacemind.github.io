@@ -15,12 +15,14 @@
         }
 
         body {
-            font-family: var(--font-family);
+            /* Removed font-family here as it's better set on main containers */
             margin: 0;
             padding: 0;
-            background-color: var(--secondary-color);
+            /* Applying background color to the body, which will show below the banner */
+            background-color: var(--secondary-color); 
             color: var(--text-color);
             line-height: 1.6;
+            font-family: var(--font-family); 
         }
 
         /* Utility for centering content */
@@ -32,15 +34,16 @@
 
         /* Banner/Hero Section */
         .hero {
-            /* IMPORTANT: Ensure this path is correct based on where you uploaded the image */
-            background-image: url('./assets/talk2me-banner.png'); 
+            /* FIX: Ensure this name matches your uploaded image file name */
+            background-image: url('./assets/solacetalk-banner.png'); 
             background-size: cover;
             background-position: center;
             height: 60vh; /* Adjust height as needed */
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            text-align: center;
+            
+            /* Remove centering for text, as the image should fill the container */
+            display: block; 
+            text-align: left;
+            
             margin-bottom: 40px;
             position: relative;
         }
