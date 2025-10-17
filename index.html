@@ -5,101 +5,28 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>SolaceTalk: Accessible AI for Emotional Support</title>
     <style>
-        /* Define Brand Colors for Buttons */
-        :root {
-            --primary-color: #92DD09; /* Bright Lime Green */
-            --secondary-color: #E6E1D9; /* Light Beige/Gray */
-            --dark-text: #1A1A1A;
-            --font-family: 'Arial', sans-serif;
-        }
-
         body {
             margin: 0;
-            font-family: var(--font-family);
-            /* Remove scrollbars that might appear if the image is slightly oversized */
+            /* Hide scrollbars just in case the image is slightly oversized */
             overflow: hidden; 
         }
 
-        /* 1. HERO SECTION: Sets the background to the full image */
+        /* HERO SECTION: Sets the banner as the full-page background */
         .hero {
-            /* IMPORTANT: Ensure your banner image is saved at this path! */
+            /* Path to the uploaded banner image */
+            /* Ensure your banner image is uploaded to assets/solacetalk-banner.png */
             background-image: url('./assets/solacetalk-banner.png'); 
             background-size: cover;
             background-position: center;
-            height: 100vh; /* Use full viewport height */
-            width: 100vw;  /* Use full viewport width */
-            display: flex;
-            position: relative;
+            height: 100vh; /* Full screen height */
+            width: 100vw;  /* Full screen width */
         }
-
-        /* 2. BUTTON STYLING (matches the visual style) */
-        .btn-container {
-            position: absolute;
-            width: 100%;
-            bottom: 6%; /* Position the container near the bottom edge */
-            display: flex;
-            justify-content: center; /* Center the buttons horizontally */
-        }
-        
-        .btn {
-            text-decoration: none; /* Remove underline from links */
-            font-size: 1.1em;
-            font-weight: bold;
-            padding: 12px 30px;
-            border-radius: 8px;
-            margin: 0 15px; /* Spacing between the buttons */
-            transition: background-color 0.2s;
-            cursor: pointer;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-            display: flex;
-            align-items: center;
-            justify-content: center;
-        }
-        
-        /* Style for the Left Button (over beige background) */
-        #btn-left {
-            background-color: var(--primary-color);
-            color: var(--dark-text);
-        }
-
-        /* Style for the Right Button (over green background) */
-        #btn-right {
-            background-color: var(--primary-color);
-            color: var(--dark-text);
-        }
-
-        .btn:hover {
-            background-color: #79c009; /* Slightly darker green on hover */
-        }
-
-        /* Responsive adjustments for smaller screens */
-        @media (max-width: 768px) {
-            .btn-container {
-                flex-direction: column; /* Stack buttons vertically */
-                align-items: center;
-                bottom: 2%; 
-            }
-            .btn {
-                width: 70%;
-                margin: 10px 0;
-            }
-        }
-
     </style>
 </head>
 <body>
 
     <div class="hero">
-        <div class="btn-container">
-            <a href="YOUR_DEMO_LINK_HERE" class="btn" id="btn-left">
-                Try the Demo &rarr;
-            </a>
-
-            <a href="YOUR_LEARN_MORE_LINK_HERE" class="btn" id="btn-right">
-                Learn More &rarr;
-            </a>
         </div>
-    </div>
 
 </body>
 </html>
