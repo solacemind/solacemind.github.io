@@ -5,28 +5,80 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>SolaceTalk: Accessible AI for Emotional Support</title>
     <style>
-        body {
-            margin: 0;
-            /* Hide scrollbars just in case the image is slightly oversized */
-            overflow: hidden; 
+        /* CSS for a clean, modern, Gen Z-friendly look */
+        :root {
+            /* Branding Colors */
+            --primary-color: #92DD09; /* Bright Lime Green */
+            --secondary-color: #E6E1D9; /* Light Beige/Gray */
+            --text-color: #1A1A1A; /* Dark Text */
+            --font-family: 'Arial', sans-serif; /* Clean, modern font */
         }
 
-        /* HERO SECTION: Sets the banner as the full-page background */
+        body {
+            font-family: var(--font-family);
+            margin: 0;
+            padding: 0;
+            background-color: var(--secondary-color);
+            color: var(--text-color);
+            line-height: 1.6;
+        }
+
+        /* Utility for centering content */
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        /* Banner/Hero Section */
         .hero {
-            /* Path to the uploaded banner image */
-            /* Ensure your banner image is uploaded to assets/solacetalk-banner.png */
-            background-image: url('./assets/solacetalk-banner.png'); 
+            /* IMPORTANT: Ensure this path is correct based on where you uploaded the image */
+            background-image: url('./assets/talk2me-banner.png'); 
             background-size: cover;
             background-position: center;
-            height: 100vh; /* Full screen height */
-            width: 100vw;  /* Full screen width */
+            height: 60vh; /* Adjust height as needed */
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            margin-bottom: 40px;
+            position: relative;
+        }
+        
+        /* Content Sections */
+        section {
+            padding: 40px 0;
+        }
+
+        h2 {
+            color: var(--primary-color);
+            font-size: 2em;
+            border-bottom: 3px solid var(--primary-color);
+            padding-bottom: 10px;
+            margin-top: 0;
+            margin-bottom: 20px;
         }
     </style>
 </head>
 <body>
 
     <div class="hero">
-        </div>
+    </div>
 
+    <div class="container">
+        
+        <section id="overview">
+            <h2>🧠 SolaceTalk: Accessible AI for Emotional Support</h2>
+            <p><strong>SolaceTalk</strong> is a groundbreaking, **free AI-powered emotional support platform** designed to democratize access to mental health resources. Our core offering is a structured, private support session with an empathetic AI listener.</p>
+            <p>We aim to dismantle common barriers to traditional therapy—including <strong>cost, social stigma, and lack of awareness</strong>—by providing a private, judgment-free space for individuals to process their thoughts and mental health challenges.</p>
+            
+            <h3>Target Audience 🎯</h3>
+            <p>Individuals aged <strong>16 and older</strong> who are actively seeking mental health support but are constrained by financial, social, or geographic barriers. This includes students, low-income individuals, and anyone uncomfortable with or unable to access in-person therapy.</p>
+
+            <p>We are currently in the **Concept and Validation** phase. More detailed information on our technology and ethical commitments will be released as the project develops.</p>
+        </section>
+
+    </div>
+    
 </body>
 </html>
