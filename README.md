@@ -1,6 +1,6 @@
 🌟 Project Overview
 
-Talk2Me is a free, AI-powered emotional support platform designed to democratize access to mental health resources. It provides a private, stigma-free conversational space, allowing users to interact with empathetic AI and receive personalized daily support.
+Solace Talk is a free, AI-powered emotional support platform designed to democratize access to mental health resources. It provides a private, stigma-free conversational space, allowing users to interact with empathetic AI and receive personalized daily support.
 
 Our goal is to make mental health support accessible, safe, and convenient for anyone, anytime.
 
