@@ -5,35 +5,109 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>SolaceMind: Accessible AI for Emotional Support</title>
     <style>
-        body {
-            /* Removes default margins, crucial for a full-screen layout */
-            margin: 0;
-            /* Prevents scrollbars if the image size is slightly off */
-            overflow: hidden; 
+        /* Define Brand Colors */
+        :root {
+            --primary-color: #92DD09; /* Bright Lime Green */
+            --secondary-color: #E6E1D9; /* Light Beige/Gray */
+            --accent-color: #A3BF9B;  /* Muted Green for Right Panel */
+            --dark-text: #1A1A1A;
+            --font-family: 'Arial', sans-serif;
         }
 
-        /* HERO SECTION: Displays the banner as the background image */
-        .hero {
-            /* 2. UPDATED PATH: Ensure your image name matches the new brand */
-            /* You should save your banner as: assets/solacemind-banner.png */
-            background-image: url('./assets/solacemind-banner.png'); 
-            
-            /* Ensures the image covers the entire viewport without stretching */
-            background-size: cover;
-            
-            /* Centers the image within the viewport */
-            background-position: center;
-            
-            /* Sets the height and width to 100% of the screen */
-            height: 100vh; 
-            width: 100vw; 
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: var(--font-family);
+            color: var(--dark-text);
+            line-height: 1.6;
+        }
+
+        /* Full-Screen Container using CSS Grid for Two Columns */
+        .page-container {
+            display: grid;
+            grid-template-columns: 50% 50%; /* Splits the screen exactly in half */
+            height: 100vh;
+            width: 100vw;
+        }
+
+        /* Left Column: Information Panel */
+        .info-panel {
+            background-color: var(--secondary-color); /* Light Beige/Gray */
+            padding: 80px 5vw; /* Padding on all sides */
+            display: flex;
+            flex-direction: column;
+            justify-content: center; /* Vertically center content */
+        }
+        
+        /* Right Column: Aesthetic/Visual Panel */
+        .visual-panel {
+            background-color: var(--accent-color); /* Muted Green */
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            /* Placeholder text style to mimic the "Talk. Feel. Grow." from the banner */
+            color: white; 
+            font-size: 2.5em;
+            font-weight: bold;
+            padding: 20px;
+        }
+
+        /* Typography */
+        h1 {
+            font-size: 3.5em;
+            color: var(--dark-text);
+            margin-bottom: 0.1em;
+        }
+        
+        h3 {
+            font-size: 1.5em;
+            color: var(--primary-color);
+            margin-top: 0;
+            margin-bottom: 2em;
+        }
+
+        p {
+            font-size: 1.1em;
+            margin-bottom: 1em;
+        }
+
+        /* Responsive Design for smaller screens */
+        @media (max-width: 900px) {
+            .page-container {
+                grid-template-columns: 1fr; /* Stack columns vertically */
+                height: auto;
+            }
+            .visual-panel {
+                height: 40vh; /* Give the visual panel some height when stacked */
+                order: -1; /* Place the visual panel (Aesthetic) at the top */
+                font-size: 2em;
+            }
         }
     </style>
 </head>
 <body>
 
-    <div class="hero">
+    <div class="page-container">
+        
+        <div class="info-panel">
+            <h1>SolaceMind</h1>
+            <h3>Accessible AI for Emotional Support</h3>
+            
+            <p><strong>Your daily dose of empathy. Free, private, and stigma-free.</strong></p>
+            
+            <p><strong>SolaceMind</strong> is a groundbreaking, free AI platform designed to democratize access to mental health resources. Our core offering is a structured, private support session with an empathetic AI listener.</p>
+            
+            <p>We aim to dismantle common barriers to traditional therapy—including <strong>cost, social stigma, and lack of awareness</strong>—by providing a private, judgment-free space for processing difficult thoughts and challenges.</p>
+
+            <p style="margin-top: 2em;">*Currently in the Concept and Validation phase. Follow our repository for updates.*</p>
         </div>
+
+        <div class="visual-panel">
+            Talk. Feel. Grow.
+        </div>
+
+    </div>
 
 </body>
 </html>
