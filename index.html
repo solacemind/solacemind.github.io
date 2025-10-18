@@ -3,85 +3,37 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SolaceTalk: Accessible AI for Emotional Support</title>
+    <title>SolaceMind: Accessible AI for Emotional Support</title>
     <style>
-        /* CSS for a clean, modern, Gen Z-friendly look */
-        :root {
-            /* Branding Colors */
-            --primary-color: #92DD09; /* Bright Lime Green */
-            --secondary-color: #E6E1D9; /* Light Beige/Gray */
-            --text-color: #1A1A1A; /* Dark Text */
-            --font-family: 'Arial', sans-serif; /* Clean, modern font */
-        }
-
         body {
-            /* Removed font-family here as it's better set on main containers */
+            /* Removes default margins, crucial for a full-screen layout */
             margin: 0;
-            padding: 0;
-            /* Applying background color to the body, which will show below the banner */
-            background-color: var(--secondary-color); 
-            color: var(--text-color);
-            line-height: 1.6;
-            font-family: var(--font-family); 
+            /* Prevents scrollbars if the image size is slightly off */
+            overflow: hidden; 
         }
 
-        /* Utility for centering content */
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 20px;
-        }
-
-        /* Banner/Hero Section */
+        /* HERO SECTION: Displays the banner as the background image */
         .hero {
-            /* FIX: Ensure this name matches your uploaded image file name */
-            background-image: url('./assets/solacetalk-banner.png'); 
+            /* 2. UPDATED PATH: Ensure your image name matches the new brand */
+            /* You should save your banner as: assets/solacemind-banner.png */
+            background-image: url('./assets/solacemind-banner.png'); 
+            
+            /* Ensures the image covers the entire viewport without stretching */
             background-size: cover;
+            
+            /* Centers the image within the viewport */
             background-position: center;
-            height: 60vh; /* Adjust height as needed */
             
-            /* Remove centering for text, as the image should fill the container */
-            display: block; 
-            text-align: left;
-            
-            margin-bottom: 40px;
-            position: relative;
-        }
-        
-        /* Content Sections */
-        section {
-            padding: 40px 0;
-        }
-
-        h2 {
-            color: var(--primary-color);
-            font-size: 2em;
-            border-bottom: 3px solid var(--primary-color);
-            padding-bottom: 10px;
-            margin-top: 0;
-            margin-bottom: 20px;
+            /* Sets the height and width to 100% of the screen */
+            height: 100vh; 
+            width: 100vw; 
         }
     </style>
 </head>
 <body>
 
     <div class="hero">
-    </div>
+        </div>
 
-    <div class="container">
-        
-        <section id="overview">
-            <h2>🧠 SolaceTalk: Accessible AI for Emotional Support</h2>
-            <p><strong>SolaceTalk</strong> is a groundbreaking, **free AI-powered emotional support platform** designed to democratize access to mental health resources. Our core offering is a structured, private support session with an empathetic AI listener.</p>
-            <p>We aim to dismantle common barriers to traditional therapy—including <strong>cost, social stigma, and lack of awareness</strong>—by providing a private, judgment-free space for individuals to process their thoughts and mental health challenges.</p>
-            
-            <h3>Target Audience 🎯</h3>
-            <p>Individuals aged <strong>16 and older</strong> who are actively seeking mental health support but are constrained by financial, social, or geographic barriers. This includes students, low-income individuals, and anyone uncomfortable with or unable to access in-person therapy.</p>
-
-            <p>We are currently in the **Concept and Validation** phase. More detailed information on our technology and ethical commitments will be released as the project develops.</p>
-        </section>
-
-    </div>
-    
 </body>
 </html>
