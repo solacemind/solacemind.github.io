@@ -18,7 +18,7 @@ Value Proposition: Free, private, and empathetic support that complements tradit
 
 🚀 Live Project
 
-Experience the full platform, including concept, technology, benefits, and roadmap, on the official project landing page
+Experience the full platform, including concept, technology, benefits, and roadmap, on the official project landing page.
 
 ---
 
