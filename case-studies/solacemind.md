@@ -86,20 +86,11 @@ The goal was always **comfort > complexity**.
 ---
 
 ## 🖼 Screenshots / Demo  
-
-*You can add these later.*  
-Suggested images:
-
-- Homepage UI
   ### 🏠 Home Screen  
 ![SolaceMind Homepage](https://github.com/solacemind/solacemind.github.io/blob/6950deb2c75e85ca3a57d7758ad9ab9ccfcab851/assets/solacemind.github.io%20-%20Charlote%20Araneta.png)
 
-- Conversation sample  
-- Input box + comforting response  
-- Mobile view screenshot  
-- Coming soon: Loom walkthrough (20–30 seconds)
-
-This makes the case study visually stronger.
+### 📱 Mobile View  
+![Mobile UI](https://github.com/solacemind/solacemind.github.io/blob/86e731d61c06aa430fdfb003fb617c8f0ae32ed8/assets/solacemind.github.io%20mobile%20-%20Charlote%20Araneta.jpg)
 
 ---
 
