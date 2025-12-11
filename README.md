@@ -98,6 +98,7 @@ User Input → Frontend Interface (HTML/CSS/JS) → API Request → OpenAI LLM �
 ---
 
 🗺 **Roadmap**
+
 Phase 1 — MVP (Current Release)
 
 ✔ Emotional support chat interface'
@@ -126,6 +127,7 @@ Phase 2 — Enhanced User Experience
 
 
 
+
 Phase 3 — Platform Expansion
 
 ⬜ Progressive Web App (PWA)
@@ -135,6 +137,7 @@ Phase 3 — Platform Expansion
 ⬜ Offline journaling mode
 
 ⬜ Multi-language support (Filipino, English, etc.)
+
 
 
 
