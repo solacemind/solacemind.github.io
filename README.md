@@ -107,26 +107,16 @@ Frontend Display
 
 ---
 
-# 🛠 Setup Instructions  
-
-### **1. Clone the repository**
-```bash
-git clone https://github.com/solacemind/solacemind.github.io.git
-
-const OPENAI_API_KEY = "your-api-key-here";
-
 🎥 Demo (Coming Soon)
 
-🗺 Roadmap
+🗺 **Roadmap**
 Phase 1 — MVP (Current Release)
-
 ✔ Emotional support chat interface
 ✔ Accessible, mobile-ready UI
 ✔ Safe, supportive conversational tone
 ✔ Basic privacy-first experience
 
 Phase 2 — Enhanced User Experience
-
 ⬜ Emotion category selection (stress, loneliness, anxiety)
 ⬜ Guided reflection prompts
 ⬜ Daily check-in mode
@@ -134,68 +124,51 @@ Phase 2 — Enhanced User Experience
 ⬜ Improved conversation memory
 
 Phase 3 — Platform Expansion
-
 ⬜ Progressive Web App (PWA)
 ⬜ Mobile app prototype
 ⬜ Offline journaling mode
 ⬜ Multi-language support (Filipino, English, etc.)
 
 Phase 4 — Partnerships & Social Impact
-
 ⬜ Collaborate with NGOs, schools, and student orgs
 ⬜ Free support toolkit for mental health advocates
 ⬜ Accessibility improvements for neurodiverse users
 ⬜ Crisis escalation protocol integration (non-AI human resources)
 
-Long-Term Vision
+**Long-Term Vision**
 
 SolaceMind evolves into a global emotional wellness companion—a supportive tool that is:
 
 Safe
-
 Human-centered
-
 Empathetic
-
 Accessible to underserved communities
 
-🤝 Contributing
+🤝 **Contributing**
 
 SolaceMind welcomes contributions from:
-
 Developers
-
 Designers
-
 Mental health advocates
-
 UX researchers
-
 Students
 
-Ways to contribute:
-
+**Ways to contribute:
+**
 Open issues
-
 Submit pull requests
-
 Suggest features
-
 Improve documentation
 
-⚠️ Disclaimer
-
-SolaceMind provides emotional support, not professional medical or psychological advice.
+**⚠️ Disclaimer
+**SolaceMind provides emotional support, not professional medical or psychological advice.
 If you are in crisis or need clinical help, please contact:
-
 Local mental health professionals
-
 National hotlines
-
 Emergency services in your area
 
-📬 Contact
-
+**📬 Contact
+**
 👩‍💻 Created by: Charlote Araneta
 🔗 LinkedIn: https://www.linkedin.com/in/charlotearaneta
 🌐 Portfolio: https://charlotearaneta.github.io
