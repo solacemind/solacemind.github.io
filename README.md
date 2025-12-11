@@ -97,8 +97,6 @@ User Input → Frontend Interface (HTML/CSS/JS) → API Request → OpenAI LLM �
 
 ---
 
-🎥 Demo (Coming Soon)
-
 🗺 **Roadmap**
 Phase 1 — MVP (Current Release)
 ✔ Emotional support chat interface'
