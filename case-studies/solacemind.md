@@ -1,7 +1,7 @@
 # 🧠 SolaceMind – AI Mental Health Companion  
 ## Case Study  
 
-SolaceMind is an AI-powered emotional support platform designed to give users a safe, private, and stigma-free space to express their feelings. It provides comforting, empathetic conversations for individuals who need someone to talk to — anytime, anywhere.
+SolaceMind is an AI-powered emotional support platform designed to give users a safe, private, and stigma-free space to express their feelings. It provides comforting, empathetic conversations for individuals who need someone to talk to anytime, anywhere.
 
 ---
 
@@ -24,7 +24,7 @@ SolaceMind fills that gap by offering **affordable, private, and accessible emot
 
 ## 👥 Who It Helps  
 
-SolaceMind supports:
+**SolaceMind** supports:
 
 - Students dealing with stress or anxiety  
 - Young professionals facing burnout  
@@ -33,8 +33,7 @@ SolaceMind supports:
 - Users who prefer writing over talking  
 - Anyone who needs a quiet emotional outlet  
 
-In short:  
-**Anyone who needs emotional support without judgment.**
+In short: **Anyone who needs emotional support without judgment.**
 
 ---
 
