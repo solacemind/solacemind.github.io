@@ -150,7 +150,9 @@ SolaceMind becomes a global emotional wellness companion that is safe, human-cen
 ## 📬 Contact  
 
 Created by **Charlote Araneta**  
-🔗 Portfolio: https://charlotearaneta.github.io  
-🔗 LinkedIn: https://www.linkedin.com/in/charlotearaneta/
+
+🔗 **Portfolio**: https://charlotearaneta.github.io  
+
+🔗 **LinkedIn**: https://www.linkedin.com/in/charlotearaneta/
 
 ---
