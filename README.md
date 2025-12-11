@@ -108,6 +108,7 @@ Phase 1 — MVP (Current Release)
 ✔ Basic privacy-first experience
 
 
+
 Phase 2 — Enhanced User Experience
 ⬜ Emotion category selection (stress, loneliness, anxiety)
 
@@ -120,6 +121,7 @@ Phase 2 — Enhanced User Experience
 ⬜ Improved conversation memory
 
 
+
 Phase 3 — Platform Expansion
 ⬜ Progressive Web App (PWA)
 
@@ -128,6 +130,7 @@ Phase 3 — Platform Expansion
 ⬜ Offline journaling mode
 
 ⬜ Multi-language support (Filipino, English, etc.)
+
 
 
 Phase 4 — Partnerships & Social Impact
