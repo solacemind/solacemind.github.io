@@ -2,6 +2,7 @@
 ### *Your Private Safe Space, Accessible AI Emotional Support*
 
 SolaceMind is a free, AI-powered emotional wellness companion designed to make emotional support **accessible, stigma-free, and available anytime**.  
+
 Through warm, empathetic conversations and user-centered design, SolaceMind provides a safe space for reflection, emotional clarity, and daily check-ins.
 
 It is **not a clinical therapy tool**, but a supportive companion for everyday emotional needs.
@@ -10,8 +11,7 @@ It is **not a clinical therapy tool**, but a supportive companion for everyday e
 
 # 🌟 Project Overview  
 
-SolaceMind is built with a simple mission:  
-**Democratize access to emotional support.**
+SolaceMind is built with a simple mission: **Democratize access to emotional support.**
 
 Many individuals face barriers when seeking mental health help — cost, stigma, limited availability, or fear of judgment. SolaceMind addresses these gaps by offering:
 
@@ -111,29 +111,44 @@ Frontend Display
 
 🗺 **Roadmap**
 Phase 1 — MVP (Current Release)
-✔ Emotional support chat interface
+✔ Emotional support chat interface'
+
 ✔ Accessible, mobile-ready UI
+
 ✔ Safe, supportive conversational tone
+
 ✔ Basic privacy-first experience
 
 Phase 2 — Enhanced User Experience
 ⬜ Emotion category selection (stress, loneliness, anxiety)
+
 ⬜ Guided reflection prompts
+
 ⬜ Daily check-in mode
+
 ⬜ Local save/export of journal entries
+
 ⬜ Improved conversation memory
 
 Phase 3 — Platform Expansion
 ⬜ Progressive Web App (PWA)
+
 ⬜ Mobile app prototype
+
 ⬜ Offline journaling mode
+
 ⬜ Multi-language support (Filipino, English, etc.)
 
 Phase 4 — Partnerships & Social Impact
 ⬜ Collaborate with NGOs, schools, and student orgs
+
 ⬜ Free support toolkit for mental health advocates
+
 ⬜ Accessibility improvements for neurodiverse users
+
 ⬜ Crisis escalation protocol integration (non-AI human resources)
+
+---
 
 **Long-Term Vision**
 
@@ -143,6 +158,8 @@ Safe
 Human-centered
 Empathetic
 Accessible to underserved communities
+
+---
 
 🤝 **Contributing**
 
@@ -156,21 +173,33 @@ Students
 **Ways to contribute:
 **
 Open issues
+
 Submit pull requests
+
 Suggest features
+
 Improve documentation
 
-**⚠️ Disclaimer
-**SolaceMind provides emotional support, not professional medical or psychological advice.
+---
+
+⚠️ **Disclaimer**
+**SolaceMind provides emotional support, not professional medical or psychological advice.**
+
 If you are in crisis or need clinical help, please contact:
+
 Local mental health professionals
+
 National hotlines
+
 Emergency services in your area
 
-**📬 Contact
-**
+---
+
+📬 **Contact**
 👩‍💻 Created by: Charlote Araneta
+
 🔗 LinkedIn: https://www.linkedin.com/in/charlotearaneta
+
 🌐 Portfolio: https://charlotearaneta.github.io
 
 ❤️ Built with empathy, purpose, and the belief that everyone deserves someone to talk to.
