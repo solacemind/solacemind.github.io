@@ -93,16 +93,20 @@ Simple, minimal interface that encourages comfort and ease of use.
 
 User Input
 ↓
+
 Frontend Interface (HTML/CSS/JS)
+
 ↓
 API Request → OpenAI LLM
+
 ↓
+
 Emotion-aware Response Generation
+
 ↓
 Frontend Display
 
 
-*A visual architecture diagram (PNG/SVG) may be added later under `/assets`.*
 
 ---
 
