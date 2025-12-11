@@ -119,6 +119,7 @@ Phase 1 — MVP (Current Release)
 
 ✔ Basic privacy-first experience
 
+
 Phase 2 — Enhanced User Experience
 ⬜ Emotion category selection (stress, loneliness, anxiety)
 
@@ -130,6 +131,7 @@ Phase 2 — Enhanced User Experience
 
 ⬜ Improved conversation memory
 
+
 Phase 3 — Platform Expansion
 ⬜ Progressive Web App (PWA)
 
@@ -138,6 +140,7 @@ Phase 3 — Platform Expansion
 ⬜ Offline journaling mode
 
 ⬜ Multi-language support (Filipino, English, etc.)
+
 
 Phase 4 — Partnerships & Social Impact
 ⬜ Collaborate with NGOs, schools, and student orgs
@@ -152,23 +155,23 @@ Phase 4 — Partnerships & Social Impact
 
 **Long-Term Vision**
 
-SolaceMind evolves into a global emotional wellness companion—a supportive tool that is:
+SolaceMind evolves into a global emotional wellness companion and a supportive tool that is:
 
-Safe
-Human-centered
-Empathetic
-Accessible to underserved communities
+- Safe
+- Human-centered
+- Empathetic
+- Accessible to underserved communities
 
 ---
 
 🤝 **Contributing**
 
 SolaceMind welcomes contributions from:
-Developers
-Designers
-Mental health advocates
-UX researchers
-Students
+- Developers
+- Designers
+- Mental health advocates
+- UX researchers
+- Students
 
 **Ways to contribute:
 **
@@ -187,11 +190,11 @@ Improve documentation
 
 If you are in crisis or need clinical help, please contact:
 
-Local mental health professionals
+- Local mental health professionals
 
-National hotlines
+- National hotlines
 
-Emergency services in your area
+- Emergency services in your area
 
 ---
 
