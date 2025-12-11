@@ -115,33 +115,6 @@ This project deepened my mission:
 
 ---
 
-## 🔮 Future Improvements  
-
-### **Phase 1 — MVP (Current Release)**  
-- Core AI emotional support chat  
-- Warm, empathetic tone through custom prompt engineering  
-- Clean and minimalist UI for comfort and ease of use  
-- Mobile-responsive design for accessibility on all devices  
-- Privacy-first experience (no accounts, no stored conversations)  
-- Web-based platform hosted on GitHub Pages  
-- Initial brand identity and landing page to explain mission and purpose
-  
-### **Phase 2**  
-- Emotion categories (stress, loneliness, anxiety)  
-- Guided reflection prompts  
-- Daily check-in mode  
-- Local saving of journal entries  
-
-### **Phase 3**  
-- Mobile app version (PWA or native)  
-- Offline journaling  
-- Multi-language support (Filipino + more)  
-
-### **Phase 4**  
-- Partnerships with mental health orgs  
-- Support toolkits for students and NGOs  
-- Accessibility upgrades for neurodiverse users  
-
 **Long-term vision:**  
 SolaceMind becomes a global emotional wellness companion that is safe, human-centered, and accessible to underserved communities.
 
