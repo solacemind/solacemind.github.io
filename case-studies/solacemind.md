@@ -84,7 +84,7 @@ The goal was always **comfort > complexity**.
 
 ---
 
-## 🖼 Screenshots / Demo  
+## 🖼 Demo  
   ### 🏠 Home Screen  
 ![SolaceMind Homepage](https://github.com/solacemind/solacemind.github.io/blob/6950deb2c75e85ca3a57d7758ad9ab9ccfcab851/assets/solacemind.github.io%20-%20Charlote%20Araneta.png)
 
