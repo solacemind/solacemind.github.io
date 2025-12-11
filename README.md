@@ -93,16 +93,11 @@ Simple, minimal interface that encourages comfort and ease of use.
 
 User Input
 ↓
-
 Frontend Interface (HTML/CSS/JS)
-
 ↓
 API Request → OpenAI LLM
-
 ↓
-
 Emotion-aware Response Generation
-
 ↓
 Frontend Display
 
@@ -169,7 +164,7 @@ SolaceMind evolves into a global emotional wellness companion and a supportive t
 
 🤝 **Contributing**
 
-SolaceMind welcomes contributions from:
+**SolaceMind welcomes contributions from:**
 - Developers
 - Designers
 - Mental health advocates
