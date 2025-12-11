@@ -99,6 +99,7 @@ User Input → Frontend Interface (HTML/CSS/JS) → API Request → OpenAI LLM �
 
 🗺 **Roadmap**
 Phase 1 — MVP (Current Release)
+
 ✔ Emotional support chat interface'
 
 ✔ Accessible, mobile-ready UI
@@ -110,6 +111,7 @@ Phase 1 — MVP (Current Release)
 
 
 Phase 2 — Enhanced User Experience
+
 ⬜ Emotion category selection (stress, loneliness, anxiety)
 
 ⬜ Guided reflection prompts
@@ -123,6 +125,7 @@ Phase 2 — Enhanced User Experience
 
 
 Phase 3 — Platform Expansion
+
 ⬜ Progressive Web App (PWA)
 
 ⬜ Mobile app prototype
@@ -134,6 +137,7 @@ Phase 3 — Platform Expansion
 
 
 Phase 4 — Partnerships & Social Impact
+
 ⬜ Collaborate with NGOs, schools, and student orgs
 
 ⬜ Free support toolkit for mental health advocates
