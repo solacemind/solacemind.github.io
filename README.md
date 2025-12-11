@@ -173,15 +173,11 @@ SolaceMind welcomes contributions from:
 - UX researchers
 - Students
 
-**Ways to contribute:
-**
-Open issues
-
-Submit pull requests
-
-Suggest features
-
-Improve documentation
+**Ways to contribute:**
+- Open issues
+- Submit pull requests
+- Suggest features
+- Improve documentation
 
 ---
 
