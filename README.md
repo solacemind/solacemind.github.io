@@ -46,8 +46,7 @@ SolaceMind complements traditional mental health care by offering:
 
 # 🚀 Live Project  
 
-🖥 **Experience SolaceMind here:**  
-https://solacemind.github.io  
+🖥 **Experience SolaceMind here:**  https://solacemind.github.io  
 
 The landing page includes:  
 - Concept  
@@ -200,5 +199,6 @@ If you are in crisis or need clinical help, please contact:
 🔗 LinkedIn: https://www.linkedin.com/in/charlotearaneta
 
 🌐 Portfolio: https://charlotearaneta.github.io
+
 
 ❤️ Built with empathy, purpose, and the belief that everyone deserves someone to talk to.
