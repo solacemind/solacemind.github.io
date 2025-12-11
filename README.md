@@ -91,15 +91,7 @@ Simple, minimal interface that encourages comfort and ease of use.
 
 # 🧩 System Architecture (Conceptual Overview)
 
-User Input
-↓
-Frontend Interface (HTML/CSS/JS)
-↓
-API Request → OpenAI LLM
-↓
-Emotion-aware Response Generation
-↓
-Frontend Display
+User Input → Frontend Interface (HTML/CSS/JS) → API Request → OpenAI LLM → Emotion-aware Response Generation → Frontend Display
 
 
 
