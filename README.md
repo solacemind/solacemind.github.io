@@ -1,5 +1,5 @@
 # 🧠 SolaceMind  
-### *Your Private Safe Space, Accessible AI Emotional Support*
+### *Accessible AI Emotional Support*
 
 SolaceMind is a free, AI-powered emotional wellness companion designed to make emotional support **accessible, stigma-free, and available anytime**.  
 
