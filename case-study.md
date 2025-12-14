@@ -1,99 +1,115 @@
 # 🧠 SolaceMind – AI Mental Health Companion  
-## Case Study  
+## Case Study
+
+---
+
+## 1. Executive Summary
 
 SolaceMind is an AI-powered emotional support platform designed to give users a safe, private, and stigma-free space to express their feelings. It provides comforting, empathetic conversations for individuals who need someone to talk to anytime, anywhere.
 
+The project was created to demonstrate how **human-centered design, ethical AI, and accessible technology** can work together to support emotional well-being without replacing professional mental health care.
+
 ---
 
-## 📌 Problem I Wanted to Solve  
+## 2. Problem Statement
 
 Millions of people struggle silently with emotional stress because:
 
-- Therapy is expensive  
-- Support systems are limited  
-- Stigma prevents people from asking for help  
-- They need immediate comfort but no one is available  
-- They hesitate to open up to friends or family  
+- Therapy is expensive and inaccessible  
+- Support systems are limited or unavailable  
+- Social stigma prevents people from asking for help  
+- Emotional distress often requires immediate comfort  
+- Many hesitate to open up to friends or family  
 
-Existing mental health tools often focus on clinical therapy, self-help content, or crisis hotlines.  
-**There was a gap for a gentle, everyday emotional companion.**
+Most existing mental health tools focus on clinical therapy, self-help content, or crisis hotlines.  
+**There is a gap for a gentle, everyday emotional companion that provides support without pressure or judgment.**
 
-SolaceMind fills that gap by offering **affordable, private, and accessible emotional support** powered by empathetic AI.
-
----
-
-## 👥 Who It Helps  
-
-**SolaceMind** supports:
-
-- Students dealing with stress or anxiety  
-- Young professionals facing burnout  
-- Individuals who feel lonely or overwhelmed  
-- People intimidated by traditional therapy  
-- Users who prefer writing over talking  
-- Anyone who needs a quiet emotional outlet  
-
-In short: **Anyone who needs emotional support without judgment.**
+SolaceMind was built to address this gap.
 
 ---
 
-## 🛠 My Process  
+## 3. Objective
 
-### **1. Understanding the User Need**  
-I studied common emotional pain points and identified the need for a compassionate, stigma-free conversational tool.
+The objective of SolaceMind is to create a platform that:
 
-### **2. Creating the Experience Flow**  
-I designed an interface that:
+- Provides immediate emotional support  
+- Feels safe, private, and non-judgmental  
+- Removes barriers such as cost and stigma  
+- Encourages emotional expression through writing  
+- Complements, rather than replaces, professional care  
 
-- feels safe  
-- doesn’t overwhelm  
-- encourages emotional expression  
-- works smoothly on mobile  
-
-### **3. Designing the AI Tone**  
-I crafted prompts that ensure the AI responds:
-
-- gently  
-- empathetically  
-- without diagnosing  
-- without judgment  
-- with emotional awareness  
-
-### **4. Building the Platform**  
-I developed a minimal but functional front-end and connected it to an AI engine via the OpenAI API.
-
-### **5. Testing & Refinement**  
-I iterated based on:
-
-- clarity of responses  
-- emotional tone  
-- usability  
-- mobile responsiveness  
-
-The goal was always **comfort > complexity**.
+The goal is not diagnosis or treatment, but **comfort, reflection, and emotional reassurance**.
 
 ---
 
-## ⚙️ Tech Stack  
+## 4. Solution Overview
 
-- **Frontend:** HTML, CSS, JavaScript  
-- **AI Engine:** OpenAI API / LLM responses  
-- **Tools:** GitHub, Prompt Engineering  
-- **Hosting:** GitHub Pages  
-- **Design Principles:** Emotional safety, accessibility, minimalism  
+SolaceMind offers users a conversational AI experience designed to feel:
+
+- Calm and empathetic  
+- Simple and unintimidating  
+- Accessible on both desktop and mobile  
+- Safe for emotional expression  
+
+Key solution characteristics include:
+
+- Private AI conversations  
+- Emotionally aware responses  
+- Minimalist, non-clinical design  
+- Easy access without complex onboarding  
+
+By focusing on *emotional presence rather than features*, SolaceMind functions as a quiet companion for everyday emotional moments.
 
 ---
 
-## 🖼 Demo  
-  ### 🏠 Home Screen  
-![SolaceMind Homepage](https://github.com/solacemind/solacemind.github.io/blob/6950deb2c75e85ca3a57d7758ad9ab9ccfcab851/assets/solacemind.github.io%20-%20Charlote%20Araneta.png)
+## 5. Technical Approach
 
-### 📱 Mobile View  
-![Mobile UI](https://github.com/solacemind/solacemind.github.io/blob/86e731d61c06aa430fdfb003fb617c8f0ae32ed8/assets/solacemind.github.io%20mobile%20-%20Charlote%20Araneta.jpg)
+### a. Human-Centered Experience Design  
+The interface was intentionally designed to:
+- Feel warm and welcoming  
+- Avoid information overload  
+- Encourage reflection and openness  
+- Work seamlessly on mobile devices  
+
+### b. AI Tone & Prompt Engineering  
+Prompts were carefully crafted to ensure responses are:
+- Gentle and empathetic  
+- Non-diagnostic  
+- Non-judgmental  
+- Emotionally aware  
+
+Tone shaping was critical to prevent the AI from sounding clinical or dismissive.
+
+### c. Platform Development  
+The project uses a lightweight technical stack:
+- Frontend built with HTML, CSS, and JavaScript  
+- AI responses generated via OpenAI API  
+- Hosted using GitHub Pages for accessibility  
+
+### d. Testing & Iteration  
+The platform was refined based on:
+- Emotional clarity of responses  
+- User comfort and safety  
+- Usability and responsiveness  
+- Simplicity over complexity  
 
 ---
 
-## 🎯 What I Learned  
+## 6. Impact and Results
+
+SolaceMind demonstrates how small, thoughtfully designed tools can create meaningful impact:
+
+- Provides a safe outlet for emotional expression  
+- Reduces friction in seeking support  
+- Offers immediate comfort during moments of stress  
+- Encourages reflection without pressure  
+- Supports mental wellness in a non-invasive way  
+
+While not a clinical tool, SolaceMind shows strong potential as a **preventative and supportive emotional resource**.
+
+---
+
+## 7. Key Learnings
 
 Building SolaceMind taught me:
 
@@ -101,26 +117,22 @@ Building SolaceMind taught me:
 Users need warmth, clarity, and safety — not just features.
 
 ### ✔ AI tone shaping is a skill  
-Crafting emotionally supportive responses required careful prompt engineering.
+Crafting emotionally supportive responses requires careful prompt engineering.
 
 ### ✔ Accessibility must be intentional  
-The tool must feel welcoming, not clinical or overwhelming.
+Mental health tools must feel welcoming, not clinical or overwhelming.
 
 ### ✔ Small tools can create real impact  
-Technology can support mental wellness in meaningful, non-invasive ways.
+Technology can support mental wellness in meaningful, everyday ways.
 
 ### ✔ Social impact can coexist with tech innovation  
-This project deepened my mission:  
-**Use tech to empower people, not replace human care.**
+This project reinforced my mission to  
+**use technology to empower people, not replace human care.**
+
 
 ---
 
-**Long-term vision:**  
-SolaceMind becomes a global emotional wellness companion that is safe, human-centered, and accessible to underserved communities.
-
----
-
-## 📬 Contact  
+## 📬 Contact
 
 Created by **Charlote Araneta**  
 
