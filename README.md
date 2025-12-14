@@ -44,18 +44,23 @@ SolaceMind complements traditional mental health care by offering:
 
 ---
 
-# 🚀 Live Project  
+## 📂 Project Structure
 
-🖥 **Experience SolaceMind here:**  https://solacemind.github.io  
+```text
 
-The landing page includes:  
-- Concept  
-- Technology  
-- Benefits  
-- Features  
-- Roadmap  
+solacemind.github.io/
+│
+├─ assets/
+│   ├─ .gitkeep
+│   ├─ solacemind-banner.png
+│   ├─ solacemind.github.io - Charlote Araneta.png
+│   └─ solacemind.github.io mobile - Charlote Araneta.jpg
+│
+├─ README.md
+├─ case-study.md
+└─ index.html
 
----
+```
 
 # ✨ Features  
 
@@ -89,9 +94,30 @@ Simple, minimal interface that encourages comfort and ease of use.
 
 ---
 
-# 🧩 System Architecture (Conceptual Overview)
+## 🧩 How It Works
 
-User Input → Frontend Interface (HTML/CSS/JS) → API Request → OpenAI LLM → Emotion-aware Response Generation → Frontend Display
+SolaceMind is designed to provide gentle, immediate emotional support through a simple and intuitive flow.
+
+### 1. User Opens the Platform  
+Users access SolaceMind through a web browser on desktop or mobile. No account creation or onboarding is required, reducing friction and anxiety.
+
+### 2. User Expresses Their Feelings  
+The user types their thoughts, emotions, or concerns into a text input field. Writing is encouraged as a low-pressure way to express emotions.
+
+### 3. AI Generates an Empathetic Response  
+The input is processed by an AI language model via the OpenAI API. Carefully designed prompts guide the AI to respond with:
+- Empathy and warmth  
+- Non-judgmental language  
+- Emotional awareness  
+- No diagnosis or clinical advice  
+
+### 4. Safe and Private Interaction  
+Conversations are designed to feel private and stigma-free. The platform does not require users to share personal details.
+
+### 5. Emotional Support, Not Replacement  
+SolaceMind acts as a supportive companion — offering comfort, reflection, and reassurance — while encouraging users to seek professional help when needed.
+
+The overall experience prioritizes **emotional safety, simplicity, and accessibility**.
 
 
 
@@ -110,7 +136,7 @@ User Input → Frontend Interface (HTML/CSS/JS) → API Request → OpenAI LLM �
 
 # 🗺 Roadmap
 
-**Phase 1 — MVP (Current Release)**
+**Phase 1 — MVP**
 
 ✔ Emotional support chat interface'
 
@@ -162,6 +188,27 @@ User Input → Frontend Interface (HTML/CSS/JS) → API Request → OpenAI LLM �
 ⬜ Accessibility improvements for neurodiverse users
 
 ⬜ Crisis escalation protocol integration (non-AI human resources)
+
+---
+
+## 🎯 What I Learned
+
+Building SolaceMind taught me several key lessons at the intersection of technology, design, and social impact:
+
+### ✔ Human-Centered Design Is Essential  
+Users seeking emotional support need warmth, clarity, and safety — not complex features or overwhelming interfaces.
+
+### ✔ AI Tone Shaping Is a Critical Skill  
+Creating emotionally supportive responses required thoughtful prompt engineering to ensure the AI sounded empathetic rather than clinical or robotic.
+
+### ✔ Accessibility Must Be Intentional  
+Mental health tools should lower barriers, not create new ones. Simplicity, mobile accessibility, and ease of use were essential design choices.
+
+### ✔ Small Tools Can Create Meaningful Impact  
+Even lightweight technology, when designed thoughtfully, can provide real comfort and support during difficult moments.
+
+### ✔ Social Impact and Tech Innovation Can Coexist  
+SolaceMind reinforced my belief that technology should empower people and support human well-being — not replace human care.
 
 ---
 
