@@ -97,7 +97,7 @@ User Input → Frontend Interface (HTML/CSS/JS) → API Request → OpenAI LLM �
 
 ---
 
-🗺 **Roadmap**
+# 🗺 Roadmap
 
 **Phase 1 — MVP (Current Release)**
 
@@ -154,7 +154,7 @@ User Input → Frontend Interface (HTML/CSS/JS) → API Request → OpenAI LLM �
 
 ---
 
-**Long-Term Vision**
+# 🌍 Long-Term Vision
 
 SolaceMind evolves into a global emotional wellness companion and a supportive tool that is:
 
@@ -165,7 +165,7 @@ SolaceMind evolves into a global emotional wellness companion and a supportive t
 
 ---
 
-🤝 **Contributing**
+# 🤝 Contributing
 
 **SolaceMind welcomes contributions from:**
 - Developers
@@ -182,7 +182,7 @@ SolaceMind evolves into a global emotional wellness companion and a supportive t
 
 ---
 
-⚠️ **Disclaimer**
+# ⚠️ Disclaimer
 **SolaceMind provides emotional support, not professional medical or psychological advice.**
 
 If you are in crisis or need clinical help, please contact:
@@ -195,7 +195,7 @@ If you are in crisis or need clinical help, please contact:
 
 ---
 
-📬 **Contact**
+# 📬 Contact
 👩‍💻 Created by: Charlote Araneta
 
 🔗 LinkedIn: https://www.linkedin.com/in/charlotearaneta
