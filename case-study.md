@@ -1,6 +1,10 @@
 # 🧠 SolaceMind – AI Mental Health Companion  
 ## Case Study
 
+This case study examines the design and development of SolaceMind, an AI-powered emotional support platform created to provide a safe, private, and stigma-free space for individuals to express their feelings. Built using ethical AI principles, thoughtful prompt engineering, and minimalist design, SolaceMind offers gentle, empathetic conversations that support everyday emotional well-being.
+
+The project demonstrates how human-centered design and responsible AI can be applied to mental health technology to lower barriers to support, encourage emotional expression, and complement rather than replace professional care. SolaceMind reflects a commitment to using technology to empower individuals, prioritize emotional safety, and create meaningful social impact.
+
 ---
 
 ## 1. Executive Summary
