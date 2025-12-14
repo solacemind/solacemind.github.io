@@ -82,15 +82,6 @@ Optimized for accessibility even on low-bandwidth connections.
 ### ✔ **User-Centered Design**  
 Simple, minimal interface that encourages comfort and ease of use.
 
----
-
-# 🧰 Tech Stack  
-
-- **Frontend:** HTML, CSS, JavaScript  
-- **AI Engine:** OpenAI API (LLM-powered emotional support responses)  
-- **Hosting:** GitHub Pages  
-- **Tools:** GitHub, Prompt Engineering, Accessibility-focused UX  
-- **Design Principles:** Emotional safety, minimalism, privacy-first  
 
 ---
 
@@ -119,6 +110,15 @@ SolaceMind acts as a supportive companion — offering comfort, reflection, and 
 
 The overall experience prioritizes **emotional safety, simplicity, and accessibility**.
 
+---
+
+# 🧰 Tech Stack  
+
+- **Frontend:** HTML, CSS, JavaScript  
+- **AI Engine:** OpenAI API (LLM-powered emotional support responses)  
+- **Hosting:** GitHub Pages  
+- **Tools:** GitHub, Prompt Engineering, Accessibility-focused UX  
+- **Design Principles:** Emotional safety, minimalism, privacy-first  
 
 
 ---
