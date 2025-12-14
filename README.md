@@ -9,7 +9,7 @@ It is **not a clinical therapy tool**, but a supportive companion for everyday e
 
 ---
 
-# 🌟 Project Overview  
+## 🌟 Project Overview  
 
 SolaceMind is built with a simple mission: **Democratize access to emotional support.**
 
@@ -24,7 +24,7 @@ Our goal is to make mental health support **safe, inclusive, and convenient** fo
 
 ---
 
-# 💡 Key Concept  
+## 💡 Key Concept  
 
 ### **Mission**  
 Bridge the mental health accessibility gap by providing *personalized, daily 60-minute emotional support sessions* powered by empathetic AI.
@@ -62,7 +62,7 @@ solacemind.github.io/
 
 ```
 
-# ✨ Features  
+## ✨ Features  
 
 ### ✔ **Private AI Conversations**  
 Confidential, non-judgmental chat sessions focused on emotional clarity and support.
@@ -112,7 +112,7 @@ The overall experience prioritizes **emotional safety, simplicity, and accessibi
 
 ---
 
-# 🧰 Tech Stack  
+## 🧰 Tech Stack  
 
 - **Frontend:** HTML, CSS, JavaScript  
 - **AI Engine:** OpenAI API (LLM-powered emotional support responses)  
@@ -134,7 +134,7 @@ The overall experience prioritizes **emotional safety, simplicity, and accessibi
 ---
 
 
-# 🗺 Roadmap
+## 🗺 Roadmap
 
 **Phase 1 — MVP**
 
@@ -212,7 +212,7 @@ SolaceMind reinforced my belief that technology should empower people and suppor
 
 ---
 
-# 🌍 Long-Term Vision
+## 🌍 Long-Term Vision
 
 SolaceMind evolves into a global emotional wellness companion and a supportive tool that is:
 
@@ -223,7 +223,7 @@ SolaceMind evolves into a global emotional wellness companion and a supportive t
 
 ---
 
-# 🤝 Contributing
+## 🤝 Contributing
 
 **SolaceMind welcomes contributions from:**
 - Developers
@@ -253,7 +253,7 @@ If you are in crisis or need clinical help, please contact:
 
 ---
 
-# 📬 Contact
+## 📬 Contact
 👩‍💻 Created by: Charlote Araneta
 
 🔗 LinkedIn: https://www.linkedin.com/in/charlotearaneta
