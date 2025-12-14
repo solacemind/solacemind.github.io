@@ -131,13 +131,11 @@ This project reinforced my mission to
 
 
 ---
-
 ## 📬 Contact
+👩‍💻 Created by: **Charlote Araneta**
 
-Created by **Charlote Araneta**  
+🔗 LinkedIn: https://www.linkedin.com/in/charlotearaneta
 
-🔗 **Portfolio**: https://charlotearaneta.github.io  
-
-🔗 **LinkedIn**: https://www.linkedin.com/in/charlotearaneta/
+🌐 Portfolio: https://charlotearaneta.github.io
 
 ---
