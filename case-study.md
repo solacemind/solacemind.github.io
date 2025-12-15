@@ -1,5 +1,7 @@
-# 🧠 SolaceMind – *Accessible AI Emotional Support*
+# 🧠 SolaceMind 
 ## Case Study
+### *Accessible AI Emotional Support*
+
 
 This case study examines the design and development of SolaceMind, an AI-powered emotional support platform created to provide a safe, private, and stigma-free space for individuals to express their feelings. Built using ethical AI principles, thoughtful prompt engineering, and minimalist design, SolaceMind offers gentle, empathetic conversations that support everyday emotional well-being.
 
@@ -118,7 +120,7 @@ While not a clinical tool, SolaceMind shows strong potential as a **preventative
 Building SolaceMind taught me:
 
 ### ✔ Human-centered design matters  
-Users need warmth, clarity, and safety — not just features.
+Users need warmth, clarity, and safety not just features.
 
 ### ✔ AI tone shaping is a skill  
 Crafting emotionally supportive responses requires careful prompt engineering.
