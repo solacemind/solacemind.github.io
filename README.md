@@ -13,7 +13,7 @@ It is **not a clinical therapy tool**, but a supportive companion for everyday e
 
 SolaceMind is built with a simple mission: **Democratize access to emotional support.**
 
-Many individuals face barriers when seeking mental health help — cost, stigma, limited availability, or fear of judgment. SolaceMind addresses these gaps by offering:
+Many individuals face barriers when seeking mental health help for the cost, stigma, limited availability, or fear of judgment. SolaceMind addresses these gaps by offering:
 
 - Free daily support  
 - A private, judgment-free space  
@@ -106,7 +106,7 @@ The input is processed by an AI language model via the OpenAI API. Carefully des
 Conversations are designed to feel private and stigma-free. The platform does not require users to share personal details.
 
 ### 5. Emotional Support, Not Replacement  
-SolaceMind acts as a supportive companion — offering comfort, reflection, and reassurance — while encouraging users to seek professional help when needed.
+SolaceMind acts as a supportive companion and offering comfort, reflection, and reassurance while encouraging users to seek professional help when needed.
 
 The overall experience prioritizes **emotional safety, simplicity, and accessibility**.
 
@@ -118,7 +118,7 @@ The overall experience prioritizes **emotional safety, simplicity, and accessibi
 - **AI Engine:** OpenAI API (LLM-powered emotional support responses)  
 - **Hosting:** GitHub Pages  
 - **Tools:** GitHub, Prompt Engineering, Accessibility-focused UX  
-- **Design Principles:** Emotional safety, minimalism, privacy-first  
+- **Design Principles:** Emotional safety, minimalism, privacy first  
 
 
 ---
@@ -144,7 +144,7 @@ The overall experience prioritizes **emotional safety, simplicity, and accessibi
 
 ✔ Safe, supportive conversational tone
 
-✔ Basic privacy-first experience
+✔ Basic privacy first experience
 
 
 
@@ -196,7 +196,7 @@ The overall experience prioritizes **emotional safety, simplicity, and accessibi
 Building SolaceMind taught me several key lessons at the intersection of technology, design, and social impact:
 
 ### ✔ Human-Centered Design Is Essential  
-Users seeking emotional support need warmth, clarity, and safety — not complex features or overwhelming interfaces.
+Users seeking emotional support need warmth, clarity, and safety not complex features or overwhelming interfaces.
 
 ### ✔ AI Tone Shaping Is a Critical Skill  
 Creating emotionally supportive responses required thoughtful prompt engineering to ensure the AI sounded empathetic rather than clinical or robotic.
@@ -208,7 +208,7 @@ Mental health tools should lower barriers, not create new ones. Simplicity, mobi
 Even lightweight technology, when designed thoughtfully, can provide real comfort and support during difficult moments.
 
 ### ✔ Social Impact and Tech Innovation Can Coexist  
-SolaceMind reinforced my belief that technology should empower people and support human well-being — not replace human care.
+SolaceMind reinforced my belief that technology should empower people and support human well-being and not replace human care.
 
 ---
 
