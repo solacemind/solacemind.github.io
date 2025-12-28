@@ -1,4 +1,4 @@
-# 🧠 SolaceMind  
+# 🧠 Solace Mind  
 ### *Accessible AI Emotional Support*
 
 SolaceMind is a free, AI-powered emotional wellness companion designed to make emotional support **accessible, stigma-free, and available anytime**.  
@@ -11,7 +11,7 @@ It is **not a clinical therapy tool**, but a supportive companion for everyday e
 
 ## 🌟 Project Overview  
 
-SolaceMind is built with a simple mission: **Democratize access to emotional support.**
+Solace Mind is built with a simple mission: **Democratize access to emotional support.**
 
 Many individuals face barriers when seeking mental health help for the cost, stigma, limited availability, or fear of judgment. SolaceMind addresses these gaps by offering:
 
